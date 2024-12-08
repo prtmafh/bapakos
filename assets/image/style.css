@@ -1,0 +1,27 @@
+body {
+    font-family: 'nunito';
+}
+.nav-link:hover {
+    color: red;
+}
+
+.carousel-item:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+    background-color: rgba(255, 255, 0, 0, 4);
+}
+
+.content-img:hover {
+    transform: scale(1.05);
+    opacity: 0.8;
+    background-color: rgba(255, 255, 0, 0, 5);
+}
+
+.card {
+    background-color: gainsboro;
+}
+
+.img-d {
+    height: 400px;
+    object-fit: contain;
+}
